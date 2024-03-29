@@ -3,9 +3,13 @@ The DFA-Based Email Address Validator is a Python project that provides a simple
 
 Usage:
 1.Clone the repository to your local machine.
+
 2.Navigate to the project directory.
+
 3.Run the Python script email_validator.py.
+
 4.Follow the prompts to input email addresses for validation.
+
 5.View the validation results displayed in the terminal of any IDE(Integrated Development Environment). Recommended VSCODE.
 
 
