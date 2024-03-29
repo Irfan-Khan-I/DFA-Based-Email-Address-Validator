@@ -16,10 +16,13 @@ Usage:
 
 Features:
 
-*DFA-based email address validation: The project employs DFA transition logic to validate email addresses, ensuring accurate        and efficient validation.
-*Python implementation: The validation logic is implemented in Python, making it easy to integrate into various applications and    projects.
+*DFA-based email address validation: The project employs DFA transition logic to validate email addresses, ensuring accurate and efficient validation.
+
+*Python implementation: The validation logic is implemented in Python, making it easy to integrate into various applications and projects.
+
 *Command-line interface: Users can input email addresses via the command line interface and receive immediate validation results.
-*Extensible and customizable: The project's modular design allows for easy extension and customization to adapt to specific         validation requirements.
+
+*Extensible and customizable: The project's modular design allows for easy extension and customization to adapt to specific validation requirements.
 
 Contributing:
 Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to submit pull requests or open issues on GitHub.
